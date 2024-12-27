@@ -1,8 +1,3 @@
-Ótima observação! Vou atualizar o **README.md** para incluir a menção ao uso do `mysql-connector-j-9.1.0.jar` como dependência para a conexão com o banco de dados MySQL.
-
-### Atualização no README.md
-
-
 # Sistema de Gerenciamento de Autores 📚
 
 Este projeto foi desenvolvido como parte das aulas do **1000Devs Turma 4**, ministradas pelo professor **Rogério** da **Mesttra**. O objetivo foi criar uma aplicação em Java conectada ao banco de dados MySQL para realizar operações CRUD (Create, Read, Update, Delete).
